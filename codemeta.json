@@ -26,7 +26,7 @@
     "dateModified": "2026-06-04",
     "datePublished": "2026-02-17",
     "description": "This Python system is a Data set deduplication tool for a metadata catalogue.",
-    "downloadUrl": "https://github.com/FCLMNHN/Cat.DeDupeX",
+    "downloadUrl": "https://github.com/FCL-DataIA/Cat.DeDupeX",
     "keywords": [
         "catalog",
         "deduplication"
@@ -44,5 +44,5 @@
     "relatedLink": "https://www.pnfb.fr",
     "releaseNotes": "First stable release of the data quality tool for detecting duplicates in an open data catalogue. This release introduces the full deduplication pipeline, as well as a comprehensive graphical interface that allows users to analyse, visualise and process duplicates directly within the application.",
     "version": "2.0",
-    "issueTracker": "https://github.com/FCLMNHN/Cat.DeDupeX/issues"
+    "issueTracker": "https://github.com/FCL-DataIA/Cat.DeDupeX/issues"
 }
